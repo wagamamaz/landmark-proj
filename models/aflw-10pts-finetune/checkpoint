@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/proj/imm-dev/models/aflw-10pts-finetune/model.ckpt-2850"
+all_model_checkpoint_paths: "/root/proj/imm-dev/models/aflw-10pts-finetune/model.ckpt-2850"
