@@ -1,12 +1,12 @@
 # [Unsupervised Learning of Object Landmarks through Conditional Image Generation]
-![Unsupervised Landmarks](examples/resources/figures/splash.jpg)
+Group member: 吴宇恒，徐诚伟，张凯忻
 
 ## Requirements
 * Linux
 * Python 2.7
 * TensorFlow 1.10.0.
 * Torch 0.4.1
-* CUDA cuDNN. CPU mode may work but is untested
+* CUDA cuDNN.
 * Python dependecies listed in `requirements.txt`
 
 ## Experiment results
