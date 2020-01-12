@@ -17,4 +17,4 @@ The result for 3000 epoch:
 ![3000 epoch](results/3000times.png)
 
 ## Notes
-The 3000-epoch training result is stored in models/aflw-10pts-finetune. Due to Github file size limit, please [download trained model](http://iamwyh.cn/file/model.ckpt-2850.meta) and place it inside the folder mentioned above. Run examples/visualize.ipynb to see it. 
+The 3000-epoch training result is stored in models/aflw-10pts-finetune. Due to Github file size limit, please [download trained model](http://iamwyh.cn/files/model.ckpt-2850.meta) and place it inside the folder mentioned above. Run examples/visualize.ipynb to see it. 
