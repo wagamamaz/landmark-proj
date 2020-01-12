@@ -1,0 +1,6 @@
+logdir: /root/proj/imm-dev/models # directory for training logs and checkpoints
+
+celeba_data_dir: /root/proj/imm-dev/data/celeba/
+aflw_data_dir: /root/proj/imm-dev/data/aflw_release-2/aflw_release-2/
+
+vgg16_path: /root/proj/imm-dev/data/vgg16.caffemodel.h5 # path to pretrained VGG16 for perceptual loss
